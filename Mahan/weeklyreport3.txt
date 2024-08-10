@@ -1,4 +1,8 @@
 learned about prince2 methodologies.
+https://www.prince2.com/blog/understanding-the-seven-principles-in-prince2/
+
 learned about basics of powerbi.
+https://learn.microsoft.com/en-us/training/powerplatform/power-bi
+
 learned about use case of business analyst.
 learned about jira and discussed with team and taught them what to do in jira.
