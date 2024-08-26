@@ -1,0 +1,3 @@
+Learned sql queries and their uses.
+learned about creating tables, joining and editing the tables.
+learned deeply on power bi : https://www.youtube.com/watch?v=3u7MQz1EyPY
